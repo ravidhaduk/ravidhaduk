@@ -8,8 +8,6 @@
 
 [![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravidhaduk&theme=dark)](https://github.com/ravidhaduk/github-readme-stats)
 
-[![Ravi' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidhaduk&layout=compact&theme=onedark&show_icons=true)](https://github.com/ravidhaduk/github-readme-stats)
-
 Cheers</br>
 Ravi Dhaduk
 <!---

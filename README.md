@@ -1,7 +1,6 @@
 ### Hi there 👋
 * 🔭 I work at Hays
 * 🌱 I’m currently learning Angular, React, .NET Core, Azure, DevOps and all latest Microsoft tech!
-* 💞️ I’m looking to collaborate on ...
 * 📫 How to reach me: @ravidhaduk
 * 😄 Pronouns: He/Him
 * ⛏ Exploration: I am working on myself

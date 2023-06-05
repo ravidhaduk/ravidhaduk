@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 🔭 I work at SSW https://www.ssw.com.au/people/ravi-dhaduk
+* 🔭 I work at Hays
 * 🌱 I’m currently learning Angular, React, .NET Core, Azure, DevOps and all latest Microsoft tech!
 * 💞️ I’m looking to collaborate on ...
 * 📫 How to reach me: @ravidhaduk

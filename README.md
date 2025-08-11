@@ -54,7 +54,6 @@ I'm passionate about quality code, comprehensive testing, and delivering excepti
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidhaduk&layout=compact&theme=dark)](https://github.com/ravidhaduk)
 
 ## 🤝 Let's Connect!
-- 📧 Email: ravidhaduk1611@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/ravidhaduk](https://www.linkedin.com/in/ravidhaduk/)
 - 📍 Location: Sydney, Australia
 - 😄 Pronouns: He/Him

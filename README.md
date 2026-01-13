@@ -48,11 +48,6 @@ I'm passionate about quality code, comprehensive testing, and delivering excepti
 - **Full Stack Developer** at Hays Specialist Recruitment - *May 2023 - Oct 2024*
 - **Full Stack Developer** at SSW - *Jan 2022 - May 2023*
 
-## 📊 GitHub Stats
-[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravidhaduk&show_icons=true&theme=dark&count_private=true)](https://github.com/ravidhaduk)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravidhaduk&layout=compact&theme=dark)](https://github.com/ravidhaduk)
-
 ## 🎯 Fun Fact
 I'm passionate about exploring the intersection of traditional software development and cutting-edge AI technologies, always looking for ways to enhance developer productivity and user experiences!
 

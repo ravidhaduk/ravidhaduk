@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ravi Dhaduk
 
 ## 🚀 About Me
-**Full Stack Software Engineer** with 5+ years of experience building scalable, customer-focused applications. Currently working as a **Technical Consultant at Cognizant** for Hays Specialist Recruitment in Sydney, Australia.
+**Full Stack Software Engineer** with 6+ years of experience building scalable, customer-focused applications. Currently working as a **Technical Consultant at Cognizant** for Hays Specialist Recruitment in Sydney, Australia.
 
 I'm passionate about quality code, comprehensive testing, and delivering exceptional user experiences using modern technologies and cloud platforms.
 

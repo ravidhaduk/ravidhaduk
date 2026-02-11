@@ -31,7 +31,7 @@ I'm passionate about quality code, comprehensive testing, and delivering excepti
 - ⚡ **Microsoft Certified: Power Platform Fundamentals**
 
 ## 🔭 What I'm Currently Working On
-- Building scalable APIs with **.NET Core 6/8**
+- Building scalable APIs with **.NET 6/8/10**
 - Implementing **OAuth 2.0** and **Azure Entra ID** authentication systems
 - Modernizing legacy applications with **React** and **Angular**
 - Exploring **Generative AI** technologies and local LLM deployment
